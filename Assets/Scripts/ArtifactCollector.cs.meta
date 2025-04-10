@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ef9502f9087a09540aebe4d3a0a796c4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - artifactCounterText: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - yaySound: {fileID: 8300000, guid: e5fc4f1060cb71742a35ae16e046d533, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
